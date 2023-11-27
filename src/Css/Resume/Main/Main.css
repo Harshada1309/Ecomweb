@@ -1,0 +1,42 @@
+
+.maindiv{
+    display: flex;
+    background-color: #f0f8ff;
+    justify-content: space-around;
+    align-items: center;
+    height: 400px;
+    flex-wrap: wrap;
+}
+
+center{
+    display: block;
+    text-align: -webkit-center;
+}
+
+h3{
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+ 
+.maindiv p{
+    font-size: 16px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+    text-align: justify;
+}
+
+.maindiv button{
+    background-color: gray;
+    border: 2px solid #fff;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px #000;
+    color: #fff;
+    padding: 10px;
+} 

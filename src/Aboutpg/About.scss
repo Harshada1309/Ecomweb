@@ -1,0 +1,31 @@
+.About{
+    
+    width: 100%;
+    background: skyblue;
+}
+
+.About{
+
+
+    section{
+
+
+
+        div{
+            display: flex;
+            align-items: center;
+            justify-content: space-around;
+
+            img{
+                height: 350px;
+                width: 450px;
+            }
+        }
+    }
+}
+
+h1{
+    align-items: center;
+    text-align: center;
+    font-size: 50px;
+}
